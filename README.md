@@ -9,15 +9,15 @@
 ## العروض | Presentations (`Presentations/`)
 | # | المتحدث | Speaker |
 |---|---|---|
-| 1 | د. أسيد الكيلاني: القوانين الداعمة للمالية الإسلامية | Dr. Asid Al Kilani: Laws Supporting Islamic Finance |
-| 2 | أ. مصطفى عادل: نظرة عامة على صناعة التمويل الإسلامي في الإمارات | Mustafa Adil: UAE Islamic Finance Industry Overview |
-| 3 | د. فضل رحيم: الحوكمة وإدارة المخاطر | Dr. Fadl Rahim: Governance and Risk Management |
-| 4 | د. محمد البلوشي: الحوكمة والرقابة الشرعية والابتكار واستدامة الأثر | Dr. Mohammed Al Balushi: Governance, Shariah Oversight, Innovation and Impact |
+| 1 | [د. أسيد الكيلاني: القوانين الداعمة للمالية الإسلامية](Presentations/1_Dr_Asid_Al_Kilani_Supportive_Laws.pptx) | Dr. Asid Al Kilani: Laws Supporting Islamic Finance |
+| 2 | [أ. مصطفى عادل: نظرة عامة على صناعة التمويل الإسلامي في الإمارات](Presentations/2_Mustafa_Adil_UAE_Islamic_Finance_Overview.pptx) | Mustafa Adil: UAE Islamic Finance Industry Overview |
+| 3 | [د. فضل رحيم: الحوكمة وإدارة المخاطر](Presentations/3_Dr_Fadl_Rahim_Governance_and_Risk_Management.pdf) | Dr. Fadl Rahim: Governance and Risk Management |
+| 4 | [د. محمد البلوشي: الحوكمة والرقابة الشرعية والابتكار واستدامة الأثر](Presentations/4_Dr_Mohammed_Al_Balushi_Governance_Shariah_Oversight_Innovation.pdf) | Dr. Mohammed Al Balushi: Governance, Shariah Oversight, Innovation and Impact |
 
 ## الأبحاث | Papers (`Papers/`)
 | # | الباحث | Author |
 |---|---|---|
-| 1 | أ.د. جاسم الشامسي: السياسات والتشريعات الداعمة للمالية الإسلامية وصناعة الحلال | Prof. Jasim Al Shamsi: Policies and Legislation Supporting Islamic Finance and the Halal Industry |
-| 2 | د. أحمد الحداد: دور الوقف النقدي في تنفيذ الاستراتيجية المالية الإسلامية | Dr. Ahmed Al Haddad: The Role of Cash Waqf in Implementing the Strategy |
+| 1 | [أ.د. جاسم الشامسي: السياسات والتشريعات الداعمة للمالية الإسلامية وصناعة الحلال](Papers/1_Prof_Jasim_Al_Shamsi_Policies_and_Legislation_Supporting_Islamic_Finance.docx) | Prof. Jasim Al Shamsi: Policies and Legislation Supporting Islamic Finance and the Halal Industry |
+| 2 | [د. أحمد الحداد: دور الوقف النقدي في تنفيذ الاستراتيجية المالية الإسلامية](Papers/2_Dr_Ahmed_Al_Haddad_Cash_Waqf_Role_in_Strategy.pdf) | Dr. Ahmed Al Haddad: The Role of Cash Waqf in Implementing the Strategy |
 
 المواد منشورة بموافقة أصحابها، وحقوقها محفوظة لهم. | Published with the authors' consent; all rights remain with them.
