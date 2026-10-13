@@ -17,7 +17,7 @@
 ## الأبحاث | Papers (`Papers/`)
 | # | الباحث | Author |
 |---|---|---|
-| 1 | د. أحمد الحداد: دور الوقف النقدي في تنفيذ الاستراتيجية المالية الإسلامية | Dr. Ahmed Al Haddad: The Role of Cash Waqf in Implementing the Strategy |
-| 2 | د. أسيد الكيلاني: السياسات والتشريعات الداعمة للمالية الإسلامية وصناعة الحلال | Dr. Asid Al Kilani: Policies and Legislation Supporting Islamic Finance and the Halal Industry |
+| 1 | أ.د. جاسم الشامسي: السياسات والتشريعات الداعمة للمالية الإسلامية وصناعة الحلال | Prof. Jasim Al Shamsi: Policies and Legislation Supporting Islamic Finance and the Halal Industry |
+| 2 | د. أحمد الحداد: دور الوقف النقدي في تنفيذ الاستراتيجية المالية الإسلامية | Dr. Ahmed Al Haddad: The Role of Cash Waqf in Implementing the Strategy |
 
 المواد منشورة بموافقة أصحابها، وحقوقها محفوظة لهم. | Published with the authors' consent; all rights remain with them.
