@@ -6,6 +6,9 @@
 **First Conference on the Role of Financial Institutions in Implementing the UAE Strategy for Islamic Finance and the Halal Industry (2025–2031)**
 30 September 2026, Grand Hyatt Dubai. Organized by Al Masraf in cooperation with the UAE Banks Federation.
 
+## مكتبة الفيديو | Video Library
+تسجيلات حفل الافتتاح وجلسات المؤتمر: [فتح مكتبة الفيديو](https://almasraf-conferences.github.io/AlMasraf-conference-2026-Materials/) | Recordings of the opening ceremony and sessions: [Open the video library](https://almasraf-conferences.github.io/AlMasraf-conference-2026-Materials/)
+
 ## العروض | Presentations (`Presentations/`)
 | # | المتحدث | Speaker |
 |---|---|---|
